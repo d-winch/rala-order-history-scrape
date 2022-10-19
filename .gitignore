@@ -1,0 +1,9 @@
+venv/
+ralawise/ralawise/__pycache__/
+
+ralawise/*.csv
+ralawise/*.xls
+
+.DS_Store
+ralawise/.DS_Store
+.env
